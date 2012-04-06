@@ -1,8 +1,4 @@
-#3d tableView#
+#Dial-menu#
 
 
-![Screenshot](https://github.com/czda1100/3d-tableView/raw/master/1.png)
-
-![Screenshot](https://github.com/czda1100/3d-tableView/raw/master/2.png)
-
-![Screenshot](https://github.com/czda1100/3d-tableView/raw/master/3.png)
+![Screenshot](https://github.com/czda1100/Dial-menu/raw/master/1.png)
